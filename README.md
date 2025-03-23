@@ -40,7 +40,7 @@ This command will move the starter code to the **app-example** directory and cre
 To learn more about developing your project with Expo, look at the following resources:
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial![Screenshot 2025-03-23 171840](https://github.com/user-attachments/assets/7ad73bfe-eb0d-4d13-80f8-cc36f178be51)
+- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial
  where you'll create a project that runs on Android, iOS, and the web.
 
 
@@ -50,7 +50,6 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-![Screenshot 2025-03-23 171959](https://github.com/user-attachments/assets/1d6ff4cd-5ba3-4c4d-bcb6-f7491405e036)
 
 ##Screenshots
 
