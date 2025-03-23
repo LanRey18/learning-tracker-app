@@ -1,0 +1,10 @@
+Create an app using the following:
+local state (useState)
+global state (context)
+children prop
+reusable components
+Must have the following features:
+modal
+add functionality
+delete functionality
+update functionality
